@@ -6,7 +6,7 @@ import { debounce } from 'lodash/function'
 const searchInput = ref('')
 const cities = ref([])
 const matchedCities = ref([])
-const loading = ref(false)
+//const loading = ref(false)
 
 watch(searchInput, debounce(async () => {
     await checkInput()
