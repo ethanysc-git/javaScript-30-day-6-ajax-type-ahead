@@ -1,5 +1,7 @@
 # 前端面試
 
+- [完成作品連結](https://java-script-30-day-6-ajax-type-ahead.vercel.app/)
+
 - [連結](https://codepen.io/tariso/pen/LyoaRM) 是 JavaScript 30 Day 6 Ajax Type Ahead 的範例
 - **目標** 我希望你能根據上述範例,根據 `Spac` 改寫成你認為最好的解決方案,不限制你用任何的 library,但唯一的限制是希望你能使用任一主流前端框架(Vue、React、Angular)。
 
